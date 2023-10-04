@@ -61,7 +61,7 @@ Install these dependencies using pip:
 ```pip install -r requirements.txt```
 
 
-## Running the `json_beauty.py` Script
+## Running the json_beauty.py Script
 The `json_beauty.py` script is designed to load all of the JSON files in the source directory, format them, and store them in the desired location for the Semantic Search Project. To run the script:
 
 1. Open your terminal or command prompt.
