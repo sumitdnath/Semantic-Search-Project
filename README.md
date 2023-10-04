@@ -74,7 +74,7 @@ The `json_beauty.py` script is designed to load all of the JSON files in the sou
 The script will beautify and reformat all JSON files in the `patent_jsons/` directory and store the formatted JSON files in the same directory.
 
 ## Results
-https://raw.githubusercontent.com/sumitdnath/Semantic-Search-Project/main/Screenshot.png
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/sumitdnath/Semantic-Search-Project/blob/main/Screenshot.png?raw=true))
 
 The screenshot above shows an example of the project's results after performing a semantic search.
 
