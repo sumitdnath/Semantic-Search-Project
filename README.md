@@ -77,6 +77,3 @@ The script will beautify and reformat all JSON files in the `patent_jsons/` dire
 
 
 The screenshot above shows an example of the project's results after performing a semantic search.
-
-Feel free to update and expand this README file to provide more detailed documentation for your specific use case and project requirements.
-
