@@ -10,8 +10,7 @@ The Semantic Search Project is designed to implement a semantic search feature t
 4. [Dependencies](#dependencies)
 5. [Running the `json_beauty.py` Script](#running-the-json_beautypy-script)
 6. [Results](#results)
-7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
+
 
 ## Project Structure
 The project is organized into the following directories and files:
